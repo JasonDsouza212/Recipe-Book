@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+<div id="header" align="center">
+    <h1>Recipe Book 📚 </h1>
+    <h3><strong><em>A Place to store All your Recipes 📖</em></strong></h3>
+    <a href="https://ibb.co/P900v7k"><img src="https://i.ibb.co/b2DDMSt/Screenshot-from-2023-04-24-18-59-52.png" alt="Screenshot-from-2023-04-24-18-59-52" border="0"></a>
+    <a href="https://ibb.co/0YBd3cx"><img src="https://i.ibb.co/p4W9pxS/Screenshot-from-2023-04-24-19-00-00.png" alt="Screenshot-from-2023-04-24-19-00-00" border="0"></a><br>
+    <!-- to change tagline if necessary -->
+    </div> <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#  Welcome to Recipe Book 📚
 
-## Available Scripts
+## About 💡
+- Recipe Book 📚 is a place where you can store all of your recipes for personal use
+- By doing so, you can ensure that the next time you prepare a dish, you won't alter the recipe and can replicate the exact same taste 
 
-In the project directory, you can run:
+## Functionality 🤖
+- You can add a recipe
+- For **input** , you will be provided with fields to enter: 
+  - **Name**
+  - **Cooktime**
+  - **Servings**
+  - **Instructions** 
+  - **Ingredients**
+- ou can **edit** any of the recipes
+- You can also **Delete** any recipe that you want
+- This application supports **CRUD** operations and the data is saved in **Local storage**
+<div id="centertext" align="center">
+    <h3>Recipe Book 📚 can be used by anyone</h3>
+</div>
 
-### `npm start`
+# 🎥 Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can check out the live project [here](https://recipe-book-eta.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 🪛 Want to contribute?
 
-### `npm test`
+We welcome you to join us!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Recipe Book 📚** is an open-source project, and we are excited to hear your thoughts and ideas.
+- Fork this repository,add your contributions and submit a PR.
+- Found a bug? Accessibility issue? Then go right ahead and create an issue.
 
-### `npm run build`
+# 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project uses: <br><br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Before installation, you need to have installed/knowledge of the following:
+<br><br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### `npm run eject`
+## 🤝 Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Follow the link to contribute to Recipe Book 📚 - [CONTRIBUTING.md](./CONTRIBUTING.md)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ✨ Contributors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<a href="https://github.com/JasonDsouza212/Recipe-Book/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JasonDsouza212/Recipe-Book" />
+</a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<div align="center">
+<h3>Show some ❤️ by starring this awesome repository!</h3>
+</div>
